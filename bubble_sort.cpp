@@ -14,7 +14,7 @@ int bubblesort(int arr[],int n){
     cout<<"Your Array after sorting is : ";
     for (int i = 0; i < n; i++)
     {
-        cout << arr[i];
+        cout << "The element in "<< arr[i];
     }
     cout<<endl;
 
