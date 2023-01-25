@@ -46,4 +46,6 @@ int main(){
     int arr2[5] = {3,7,2,4,1};
     int arr3[5] = {2,4,1,6,7};
     commonelement(arr1,arr2,arr3,5,5,5);
+//hello i  am akshay
+	while(int i ==0; i
 } 
